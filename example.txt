@@ -1,2 +1,3 @@
 HI,
 I am Learning DevOps with AWS
+Also, I am Learning Shell Scripting
